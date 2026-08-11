@@ -1,6 +1,6 @@
 # Wispcraft
 
-A patch for eaglercraft that allows joining regular online mode minecraft servers from the browser, tunneled over wisp
+A patch for eaglercraft that allows joining regular online mode minecraft servers from the browser, tunneled over the wisp protocol 
 
 Uses [epoxy-tls](https://github.com/r58Playz/epoxy-tls) to log in and fetch skins from the Minecraft server, and also connect to online mode minecraft servers
 
